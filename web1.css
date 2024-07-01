@@ -1,0 +1,28 @@
+#carouselExampleIndicators{
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 450px;
+}
+.carousel-slide{
+    width: 100%;
+}
+.card1{
+    float: left;
+}
+body{
+    background-color: bisque;
+}
+.card{
+    margin-left: 100px;
+    float: left;
+    margin-left: 50px;
+}
+h1{
+   
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+}
+h2{
+    text-align: justify;
+}
